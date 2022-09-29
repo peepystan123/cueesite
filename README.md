@@ -19,7 +19,7 @@ I have given up on making it smaller, the theme makes the image look good enough
 
 This is how my code looks. Another thing I need to do for my project is input a link to another webpage. I'm not sure what my teacher means by this, so I will insert a link to my favrite video and hope that it is what my teacher is asking for. Actually, I lied. I might get copyright claimed. Here is the Wikipedia page for Blahaj.
 
-https://en.wikipedia.org/wiki/Bl%C3%A5haj
+<link> https://en.wikipedia.org/wiki/Bl%C3%A5haj </link>
 
 ## Conclusion
 
