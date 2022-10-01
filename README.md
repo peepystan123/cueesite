@@ -21,7 +21,7 @@ This is how my code looks. Another thing I need to do for my project is input a 
 
 Actually, I lied. I might get copyright claimed. Here is the Wikipedia page for Blahaj.
 
-[link](https://en.wikipedia.org/wiki/Bl%C3%A5haj)
+[link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Conclusion
 
@@ -33,3 +33,5 @@ I think it's because of the theme...
 Oh my god, I hate it here. 
 
 The only difference was a space. I'm so tired of this, I'm never making a website again. My bad for blaming the theme I guess...
+
+By the way, I changed my mind about the link. Of course, it's still there but I asked my teacher if I would get plagarized for putting in the wiki page for Blahaj. Under that same logic I could put in the video I was talking about earlier, I don't think I'm breaking any laws by doing this. If it turns out that I am, I will update to let whoever is reading this know.
